@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<!--  -->
+	<title> Forms and input</title>
+</head>
+<body>
+<!--  -->
+<h1> This is a form</h1>
+<input type="text" placeholder="username">
+<input type="color" >
+<button> submitd</button>
+<input type="submit" >
+<input type="radio" >
+<input type="password" placeholder="password">
+</body>
+</html>

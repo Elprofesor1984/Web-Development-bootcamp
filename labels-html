@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<!--  -->
+	<title> Labels</title>
+</head>
+<body>
+<!--Action-  Where the form send data to  -->
+<!-- Method-what HTTP method (get/post)  -->
+<h1> Login</h1>
+<!-- <form ="HTTP://www.google.com" method="get"> -->
+
+<!-- <form action="HTTP://www.google.com" >  
+	<label>Username:<input type="text" placeholder="username">  </label>
+
+	<label>Password:<input type="password" placeholder="password"> </label>
+
+
+<input type="submit" >
+</form> -->
+
+<form action="HTTP://www.google.com"> 
+	<label for="username"> Username:</label>
+	<input id="username" type="text" placeholder="username">
+
+	<label for="password" > Password:</label>
+	<input id="password" ="" type="password" placeholder=" password">
+
+
+</form>
+</body>
+</html>

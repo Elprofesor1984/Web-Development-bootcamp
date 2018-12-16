@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+ <!-- This is a form excercise--> 
+	<title> Form excercise </title>
+</head>
+
+<body>
+<h1>Register </h1>
+<form>
+	<label for="first name">First Name</label>
+	<input name="first" id="first name" type="text" placeholder="John" required>
+	<label for="last name">Last Name</label>
+	<input name="last" id="last name" type="text" placeholder="Smith" required>
+<!-- <p> 
+	<label for="male"> Male: </label>
+	<input id="male" type="radio">
+	<label for="female">Male: </label>
+	<input id="male" type="radio" >
+	<label for="other">Other:</label>
+	<input id="other" type="radio" >
+</p> -->
+<div>
+	<label for="male"> Male </label>
+	<input id="male"  name="gender" type="radio" value="male">
+	<label for="female">Female </label>
+	<input id="male"  name="gender" type="radio" value="female">
+	<label for="other">Other</label>
+	<input id="other" name="gender" type="radio" value="other">
+</div>
+	
+<div>
+	<label>
+	 Email 
+	<input name="email" type="email" placeholder= "your email" required>
+	</label>
+
+	<label>
+	 Password
+	  <input name="password" type="password" placeholder= "your password" required  pattern=".{5,10}" required title="5 to 10 characters"> <!-- -required title="password must be between  and 5 and 10 characters-->
+	 <->
+	 </label>
+	
+</div>
+	
+<div>
+	<label> 
+		Birthday:
+	<select name="Month"> 
+		<option>Month </option>
+		<option>Jan </option>
+		<option> Feb</option>
+		<option>Mar </option>
+	</select>
+	<select name="Day">
+		<option> Day </option>
+		<option>10 </option>
+		<option>11 </option>
+		<option>12 </option>
+	</select >
+ 
+	<select name="Year">
+		<option> Year</option>
+		<option> 1999 </option>
+		<option> 2000 </option>
+		<option> 2001 </option>
+	</select>
+	</label>
+</div>
+<div> 
+	<label for="agreed"> I agree to the terms and conditions: </label>
+	<input id="agreed" name="agreed" type="Checkbox" >
+</div>
+<button> Submit</button>
+
+<!-- https://stackoverflow.com/questions/10281962/is-there-a-minlength-validation-attribute-in-html5 -->
+<!--  -->
+
+</form>
+</body>
+</html>

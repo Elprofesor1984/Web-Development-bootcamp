@@ -1,0 +1,70 @@
+<!-- <!Doctype html>
+<html>
+<head>
+<!-- Use the <form></form> tag
+	Use the <input> tag
+	Use the <label></label> tag
+	Write Simple Validations 
+
+	 <title> Drop downs and radio button</title>
+</head>
+<body>
+	<h1> this is form practice</h1>
+	<h2> choose and click below</h2>
+<form action="http://www.google.com" methon="post">
+	<label>Text: <input type="text">  </label>
+	<label>Date:  <input type="date"> </label>
+	<label>Choose Color: <input type="color"> </label>    
+	<LABEL> Checkbox: <INPUT type="checkbox"></LABEL>
+	<input type="file">
+	<input  type="radio">
+	<!-- Another syntax using "for" and "id" attributes
+	<label for="username">Username: </label>
+	<input id="username" type="text">
+	<label for="password">Password: </label>
+	<input id="password" type="password"> 
+	
+	<button> click</button>
+
+</form>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html>
+<head>
+
+	<!-- Radio button -->
+	<!-- select tag -->
+	<!-- text area tag -->
+	<title> Dropdown and radio</title>
+</head>
+<body>
+<p>Do you prefere cats or dogs?</p>
+<form>
+<label for="dogs"> Dogs:</label>
+<input name="petchoice" id="dogs" type="radio" value="Dogs">
+<label for="cats"> Cats:</label>
+<input name="petchoice" id="cats" type="radio" value="Cats">
+<p> What is you faviorate pet's color</p>
+<select>
+<option>Red</option>
+<option>green</option>
+<option>blue </option>
+</select>
+<p> What is your mood></p>
+<select>
+<option value="Sad"> :(</option>
+<option value="neutral"> :l</option>
+<option value="happy"> :)</option>
+</select>
+
+<textarea name="paragraph" rows="20"  cols="20"> </textarea>
+<button>Go!</button>
+</form>
+
+
+</body>
+</html>
+
+

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About me	</title>
+
+<!-- <style type="text/css"> 
+
+	/*selector { 
+	property: value; 
+	}*/	
+ 
+	</style> -->
+	<link rel="stylesheet" type="text/css" href="aboutme.css">
+</head>
+<body>
+
+	
+	
+
+<h1>About me</h1>
+<h2> About me</h2>
+<h3> About me</h3>
+
+<h4> My hobbies:</h4>
+<ul>
+	
+	<li > playing guitar</li>
+	<li> watching movies</li>
+	<li> reading</li>
+	<li> playing soccer</li>
+</ul>
+</body>
+</html>
+-------------
+h1 {
+	color: red;
+} 
+li {
+	color: green;
+}
+
+h2 {
+	color:blue;
+}
+
+h3 {
+	color:brown;
+	font-size: 20
+}

@@ -33,17 +33,36 @@
 </html>
 -------------
 h1 {
-	color: red;
-} 
-li {
-	color: green;
+	/*color: rgba(50,100,15,.6);
+	border-color: blue;
+	border-width: 8px;
+	border-style: solid; */
+	border:2px  dashed #ff8566;
+	
 }
-
 h2 {
-	color:blue;
+		border-color: blue;
+	border-width: 8px;
+	border-style: solid; 
 }
-
 h3 {
-	color:brown;
-	font-size: 20
+		/*border-color: blue;
+	border-width: 8px;
+	border-style: solid; */
+}
+h4 {
+	color: #f2ffe6;
+	background: #ff8566;
+		border-color: blue;
+	border-width: 8px;
+	border-style: solid; 
+}
+body {
+	background: yellow; 
+
+	/*background:url(https://images.unsplash.com/photo-1506689205310-0a29c388691c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+	background-repeat: no-repeat;
+	background-size: cover;
+	*/
+
 }

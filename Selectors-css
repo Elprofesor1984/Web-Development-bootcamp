@@ -1,0 +1,7 @@
+/* selectors */
+li {
+}
+/* class */
+.hello
+/* id */
+#name   /* note we can have only one class under the same name */

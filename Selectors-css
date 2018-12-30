@@ -68,7 +68,7 @@
 
 ==========
 /* https://www.w3.org/TR/selectors-3/#specificity */
-
+/* https://stackoverflow.com/questions/4148499/how-to-style-a-checkbox-using-css */
 /* selectors */
 li {
 }

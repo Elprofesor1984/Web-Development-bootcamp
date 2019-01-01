@@ -2,6 +2,7 @@
 <head>
 	<title> fonts</title>
 	<link rel="stylesheet" type="text/css" href="fonts.css">
+	<!-- for google fonts just paste link here <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,400i|Shadows+Into+Light" rel="stylesheet">
 </head>
 <body>
 <!-- lorem + press tab-->
@@ -31,6 +32,7 @@ p {
 /* sometime you might have to include qoutes " arial"*/
 h1 {
 	font-family: Georgia;
+	/* for google font jsut write name of fonts  */
 }
 
 /*font-size*/

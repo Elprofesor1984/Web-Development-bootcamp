@@ -4,6 +4,7 @@
 <head>
 	<!-- our metadata goes here-->
 	<!--https://developer.mozilla.org/en-US/docs/Web/HTML/Element-->
+	<!--https://www.lipsum.com/ --> <!-- type lorem + tab -->
 	
 	<title> This is a html boilerplate</title>
 </head>

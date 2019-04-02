@@ -3,6 +3,8 @@
 <html>
 <head>
 	<!-- our metadata goes here-->
+	<!--https://developer.mozilla.org/en-US/docs/Web/HTML/Element-->
+	
 	<title> This is a html boilerplate</title>
 </head>
 <body>

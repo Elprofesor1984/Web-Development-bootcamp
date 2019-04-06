@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>HTML Tables</title>
+</head>
+<body>
+<h1>Bio Informattion Table</h1>
+
+<!-- Name   Age
+===========
+Sam     35
+John    40
+Micheal 45
+ -->
+
+
+<table border ="2"> 
+	<!-- for screan reading code website -->
+
+	<thead> 
+		<tr>
+			<th>Name</th>
+			<th>Age</th>
+		</tr>
+	</thead>
+	<tbody> 
+		<tr> 
+			<td>Sam</td>
+			<td>35</td>
+		
+		</tr>
+		<tr>
+			<td>John</td>
+			<td>40</td>
+		</tr>
+		<tr>
+	
+			<td>Micheal</td>
+			<td>45</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>

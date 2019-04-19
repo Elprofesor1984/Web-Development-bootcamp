@@ -44,7 +44,7 @@
 
 -------------
 h1 {
-	/*color: rgba(50,100,15,.6);
+	/*color: rgba(50,100,15,.6);     .6 = 0.0 -1.0 shade "transparency)
 	border-color: blue;
 	border-width: 8px;
 	border-style: solid; */
@@ -62,7 +62,7 @@ h3 {
 	border-style: solid; */
 }
 h4 {
-	color: #f2ffe6;
+	color: #f2ffe6;              /*RGB correspondingly 2f red, ff green, e6 blue  */
 	background: #ff8566;
 		border-color: blue;
 	border-width: 8px;

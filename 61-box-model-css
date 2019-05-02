@@ -1,0 +1,37 @@
+<html>
+<head>
+  <title>Box Model</title>
+  <link rel="stylesheet" type="text/css" href="selectors.css">
+</head>
+<body>
+
+<h1>This is box model</h1>
+
+<p>I am a paragraph </p>
+<p>I am a paragraph </p>
+
+</body>
+</html>
+
+ =============================
+ 
+P {
+
+	/*Contect-width and hight height*/
+width: 50%;
+
+	/*margin */
+	margin: 50px 20px 10px 5px;
+	/*margin-right: 
+	margin: 0 auto 0 auto
+	margin-left;*/
+
+
+/*	padding*/
+padding: 20px; 
+/*padding-top: 
+padding-left;*/
+	/*border */
+
+	border:2px solid blue;
+}

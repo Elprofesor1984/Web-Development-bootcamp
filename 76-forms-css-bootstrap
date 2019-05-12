@@ -30,7 +30,7 @@
 
 	<!-- basic form -->
 	<form>
-		<!-- class="form-group" class="form-control" -->
+		<!-- class="form-group" class="form-control"  responsible for making things look good-->
   <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>
     <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">

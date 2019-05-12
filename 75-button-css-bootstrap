@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>bootstrap basics</title>
+  <link rel="stylesheet" type="text/css" href="bootstrap.css">
+  <!-- this is how to overide bootstrap style.
+  <style type="text/css">
+  .btn-danger {
+      color: gray;
+    }
+  </style> -->
+</head>
+<body>
+  <h1> bootstrap basics</h1>
+  <button type="button"  class="btn btn-success btn-lg" > This is a button</button>
+  <button  class="btn btn-default btn btn-info btn-sm" type="submit" disabled="disabled"> This is an inactive button</button>
+  <a href="http://www.getbootstrap.com" class="btn btn-info btn-lg"> Links acting as buttons </a>
+  <button type="button" class="btn btn-danger active btn-lg"> this is an active button</button>
+ 
+</body>
+</html> 
